@@ -1,2 +1,4 @@
 # reactos_fonts
-besad fontsub
+based fontsub
+ - zh-cn fonts
+ - emoji fonts(reactos not support color emoji fonts)
